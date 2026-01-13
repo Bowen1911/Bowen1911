@@ -1,6 +1,4 @@
-### Hi there 👋. Welcome to contact with me via my Email: bw1863@outlook.com.
-![Bowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bowen1911)
-
+### Hi 👋. Looking forward to communicating and collaborating with you.
 
 #### Platform&Tools
 [![](https://img.shields.io/github/stars/bowen1911)](https://github.com/bowen1911)
