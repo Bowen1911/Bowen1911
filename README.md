@@ -1,5 +1,6 @@
 ### Hi there 👋. Welcome to contact with me via my Email: bw1863@outlook.com.
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bowen1911&show_icons=true)
+![Bowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bowen1911)
+
 
 #### Platform&Tools
 [![](https://img.shields.io/github/stars/bowen1911)](https://github.com/bowen1911)
