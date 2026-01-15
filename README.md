@@ -1,6 +1,5 @@
 ### Hi 👋. Looking forward to communicating and collaborating with you.
 
-#### Platform&Tools
 [![](https://img.shields.io/github/stars/bowen1911)](https://github.com/bowen1911)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
